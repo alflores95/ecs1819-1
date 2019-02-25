@@ -1,0 +1,53 @@
+.jumbotron-fluid {
+    text-align: center;
+    color:pink;
+    font-family: monospace;
+    background-color:pink;
+    color:grey;
+}
+
+.carousel-item{
+    text-align: center;
+}
+#influencers{
+    color:grey;
+    font-family: monospace;
+    text-align: center;
+    font-size:xx-large;
+}
+.card-body{
+    font-family: monospace;
+    text-align: center;
+    
+}
+.card-title{ 
+    font-family: serif;
+    text-align: center;
+    color:pink;
+    font-size: x-large;
+}
+
+img{ 
+    width:200px;
+    height:200px;
+}
+#info{
+    text-align: center;
+    font-family: monospace;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.contanier-fluid {
+   background-color:pink;
+   color:black;
+}
+
+.btn-btn-dark{
+    margin-top:167px;
+    width:1024px;
+    height:34px;
+}
+.link{text-align: center;}
