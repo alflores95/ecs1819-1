@@ -33,12 +33,9 @@ h1{
 }
 
 .card-body{
-    background-image:url(https://www.muralswallpaper.com/app/uploads/clean-white-brick-wall-textures-plain.jpg);
+    background-color:#FFB6C1;
 }
 
-#about{
-  color:#419698;
-}
 .jumbotron-fluid-fluid{
   background-color:#b8ecf4;
   text-align: center;
@@ -49,7 +46,10 @@ h1{
 }
 
 .card-body-hobby{
-  background-image:url(https://www.muralswallpaper.com/app/uploads/clean-white-brick-wall-textures-plain.jpg);
+  background-color:#FFB6C1;
   height:55px;
   text-align:center;
+}
+body{
+  background-image:url(https://www.muralswallpaper.com/app/uploads/clean-white-brick-wall-textures-plain.jpg);
 }
