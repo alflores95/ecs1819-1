@@ -7,7 +7,7 @@
 
 h1{
   color:white;
-  font-family: Verdana;
+  font-family:Montserrat;
   text-align: center
 }
 
@@ -17,18 +17,18 @@ h1{
   border-color:#ffdc98;
   background-color:white; 
   color:black;
-  font-family: Verdana;
+  font-family: Scope One;
 }
 
 .likes{
   color:black;
   text-align: center;
-  font-family: Verdana;
+  font-family:Scope One;
 }
 
 .card-title{
   color:black;
-  font-family: Verdana;
+  font-family:Scope One;
   text-align: center;
 }
 
@@ -40,7 +40,7 @@ h1{
   background-color:#b8ecf4;
   text-align: center;
   color:white;
-  font-family:verdana;
+  font-family:Scope One;
   padding-top: 30px;
   padding-bottom: 30px;
 }
@@ -66,6 +66,7 @@ body{
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  font-family: Montserrat;
 }
 
 .topnav a:hover {
@@ -77,3 +78,8 @@ body{
   background-color:#FFB6C1;
   color: black;
 }
+
+.btn btn-info{
+  text-align: center
+}
+

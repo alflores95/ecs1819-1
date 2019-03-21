@@ -7,7 +7,7 @@
 
 h1{
   color:white;
-  font-family: Verdana;
+  font-family:Montserrat;
   text-align: center;
 }
 
@@ -17,14 +17,14 @@ h1{
   border-color:#ffdc98;
   background-color:white; 
   color:black;
-  font-family: Verdana;
+  font-family:Scope One;
   text-align: center
 }
 
 .card-title{
   color:black;
   text-align: center;
-  font-family: Verdana;
+  font-family: Scope One;
 }
 
 .card-body{
@@ -48,7 +48,7 @@ ul li {
   background-color:#FFB6C1;
   padding: 5px;
   margin-left: 35px;
-  font-family: Verdana;
+  font-family: Scope One;
   color:black;
   font-size: large;
 }
@@ -89,6 +89,7 @@ ul li {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  font-family: Scope One;
 }
 
 .topnav a:hover {

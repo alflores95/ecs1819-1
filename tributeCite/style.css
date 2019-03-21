@@ -51,3 +51,27 @@ img{
     height:34px;
 }
 .link{text-align: center;}
+
+.topnav {
+  background-color:white;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color:#FFB6C1;
+  color: black;
+}
+
+.topnav a.active {
+  background-color:#FFB6C1;
+  color: black;
+}
