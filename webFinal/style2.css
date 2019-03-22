@@ -97,7 +97,17 @@ ul li {
   color: black;
 }
 
-.topnav a.active {
+.active {
   background-color:#FFB6C1;
   color: black;
 }
+
+h2{
+  border:solid;
+  border-width:8px;
+  border-color:#ffdc98;
+  background-color:white; 
+  color:black;
+  font-family:Montserrat;
+}
+
